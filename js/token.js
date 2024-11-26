@@ -1,5 +1,5 @@
 // main.js
 const CONFIG = {
-  botToken: "7510872291:AAEMQjY3xpVoCrEeRi3Gd7eDxrevVwBKdjk",
-  chatId: "6927751752"
+  botToken: "Nzc3MDM5NTY1MjpBQUh2ZFZWLWplOEdtREVxMlVNbU5VQ1RqWDAyOTlYTjJ4QQ==",
+  chatId: "NjE1NTY0OTU1Mw=="
 };
